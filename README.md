@@ -8,4 +8,4 @@ Version of OpenZeppelin: 2.3.0
 ### Token Details
 ERC-721 Token Name: Arwa Star
 
-ERC-721 Token Symbol: AR
+ERC-721 Token Symbol: AS
